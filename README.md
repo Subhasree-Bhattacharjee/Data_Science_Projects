@@ -1,1 +1,1 @@
-# Data_Science_Projects- A collection of all data science projects of mine till date.
+# Data_Science_Projects- A collection of some of my data science projects.
